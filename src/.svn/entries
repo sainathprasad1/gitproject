@@ -1,0 +1,41 @@
+8
+
+dir
+2
+http://192.168.33.12:8081/subversion/branch/src
+http://192.168.33.12:8081/subversion
+
+
+
+2018-04-26T09:46:06.050284Z
+2
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c08f38b0-492f-11e8-8706-41b62c2588d6
+
+HelloWorld.java
+file
+
+
+
+
+2018-04-26T09:58:47.517000Z
+3467be58f601f5b57dc7810a1db7f4f6
+2018-04-26T09:46:06.050284Z
+2
+
+has-props
+
